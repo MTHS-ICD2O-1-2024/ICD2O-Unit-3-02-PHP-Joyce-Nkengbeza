@@ -1,0 +1,75 @@
+<mxfile host="65bd71144e">
+    <diagram id="pTAsnwIpJ6TQvKlHytmg" name="Page-1">
+        <mxGraphModel dx="707" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Formula&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="30" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;A = [(a + b) / 2] x h&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="80" width="220" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Please enter integers for dimensions&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry y="150" width="260" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px;&quot;&gt;A base:&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="215" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="90" y="240" as="sourcePoint"/>
+                        <mxPoint x="190" y="240" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="140" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px;&quot;&gt;3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="85" y="215" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px;&quot;&gt;B base:&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="260" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="85" y="280" as="sourcePoint"/>
+                        <mxPoint x="185" y="280" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px;&quot;&gt;5&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="85" y="260" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px;&quot;&gt;mm&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="215" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px;&quot;&gt;mm&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="260" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px;&quot;&gt;mm&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="300" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="90" y="320" as="sourcePoint"/>
+                        <mxPoint x="190" y="320" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 14px;&quot;&gt;10&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="75" y="300" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Height:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="300" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Calculate Area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="35" y="360" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJzdmcxMzE0IiBoZWlnaHQ9IjE3MiIgd2lkdGg9IjI5MiIgdmVyc2lvbj0iMS4wIiB2aWV3Qm94PSIwIDAgMjkyIDE3MiI+CiAgPGRlZnMgaWQ9ImRlZnMxMzE2Ii8+CiAgPGcgaWQ9ImxheWVyMSI+CiAgICA8cG9seWdvbiBpZD0icG9seWdvbjEzNTIiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjEuNTtzdHJva2UtbWl0ZXJsaW1pdDoxMCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMi4yNjI3LC0xLjYxMDMyKSIgcG9pbnRzPSIyNy4wNDYsODYuNjE1IDE2LjQxNiwxNTAuMzk2IDI3MS41MzQsMTUwLjM5NiAxODYuNDk1LDIyLjgzNiAzNy42NzYsMjIuODM2IDI3LjA0Niw4Ni42MTUiLz4KICAgIDxsaW5lIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjEuNTtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2UtZGFzaGFycmF5OjUuMTAyNCwgMy4wNjE0IiBpZD0ibGluZTEzNTQiIHkyPSIyMS4yMjU2ODMiIHgyPSIzOS45Mzg2NTYiIHkxPSIxNDguNzg1NjgiIHgxPSIzOS45Mzg2NTYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIvPgogICAgPHBvbHlsaW5lIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjEuNTtzdHJva2UtbWl0ZXJsaW1pdDoxMCIgaWQ9InBvbHlsaW5lMTM1NiIgcG9pbnRzPSI1MC40MzIsMTUwLjM5NiA1MC40MzIsMTM3LjY0ICAgMzcuNjc2LDEzNy42NCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLjI2MjcsLTEuNjEwMzIpIi8+CiAgICA8dGV4dCBpZD0idGV4dDEzNTgiIHN0eWxlPSJmb250LXNpemU6MTRweDtmb250LXN0eWxlOml0YWxpYztmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0Om5vcm1hbDtmb250LXN0cmV0Y2g6bm9ybWFsO3RleHQtYWxpZ246c3RhcnQ7bGluZS1oZWlnaHQ6MTI1JTt3cml0aW5nLW1vZGU6bHItdGI7dGV4dC1hbmNob3I6c3RhcnQ7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuIiB5PSI4LjMzMDA4MjkiIHg9IjExMS42OTM4NyI+YTwvdGV4dD4KICAgIDx0ZXh0IGlkPSJ0ZXh0MTM2MCIgc3R5bGU9ImZvbnQtc2l6ZToxNHB4O2ZvbnQtc3R5bGU6aXRhbGljO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7dGV4dC1hbGlnbjpzdGFydDtsaW5lLWhlaWdodDoxMjUlO3dyaXRpbmctbW9kZTpsci10Yjt0ZXh0LWFuY2hvcjpzdGFydDtmb250LWZhbWlseTpUaW1lcyBOZXcgUm9tYW4iIHk9IjE2OS42OTIzOCIgeD0iMTQzLjI0ODA4Ij5iPC90ZXh0PgogICAgPHRleHQgaWQ9InRleHQxMzYyIiBzdHlsZT0iZm9udC1zaXplOjE0cHg7Zm9udC1zdHlsZTppdGFsaWM7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5vcm1hbDt0ZXh0LWFsaWduOnN0YXJ0O2xpbmUtaGVpZ2h0OjEyNSU7d3JpdGluZy1tb2RlOmxyLXRiO3RleHQtYW5jaG9yOnN0YXJ0O2ZvbnQtZmFtaWx5OlRpbWVzIE5ldyBSb21hbiIgeT0iODkuMDc5NTgyIiB4PSI1Mi42OTMzNTYiPmg8L3RleHQ+CiAgICA8dGV4dCBpZD0idGV4dDEzNjQiIHN0eWxlPSJmb250LXNpemU6MTRweDtmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0Om5vcm1hbDtmb250LXN0cmV0Y2g6bm9ybWFsO3RleHQtYWxpZ246c3RhcnQ7bGluZS1oZWlnaHQ6MTI1JTt3cml0aW5nLW1vZGU6bHItdGI7dGV4dC1hbmNob3I6c3RhcnQ7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuIiB5PSIxNTYuODEzNDkiIHg9IjIuMjYyNjU5MyI+QTwvdGV4dD4KICAgIDx0ZXh0IGlkPSJ0ZXh0MTM2NiIgc3R5bGU9ImZvbnQtc2l6ZToxNHB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7dGV4dC1hbGlnbjpzdGFydDtsaW5lLWhlaWdodDoxMjUlO3dyaXRpbmctbW9kZTpsci10Yjt0ZXh0LWFuY2hvcjpzdGFydDtmb250LWZhbWlseTpUaW1lcyBOZXcgUm9tYW4iIHk9IjE1OC43OTM0OSIgeD0iMjgxLjA1NTY2Ij5CPC90ZXh0PgogICAgPHRleHQgaWQ9InRleHQxMzY4IiBzdHlsZT0iZm9udC1zaXplOjE0cHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5vcm1hbDt0ZXh0LWFsaWduOnN0YXJ0O2xpbmUtaGVpZ2h0OjEyNSU7d3JpdGluZy1tb2RlOmxyLXRiO3RleHQtYW5jaG9yOnN0YXJ0O2ZvbnQtZmFtaWx5OlRpbWVzIE5ldyBSb21hbiIgeT0iMTMuOTY1MzgzIiB4PSIxOTAuNzk0ODYiPkM8L3RleHQ+CiAgICA8dGV4dCBpZD0idGV4dDEzNzAiIHN0eWxlPSJmb250LXNpemU6MTRweDtmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0Om5vcm1hbDtmb250LXN0cmV0Y2g6bm9ybWFsO3RleHQtYWxpZ246c3RhcnQ7bGluZS1oZWlnaHQ6MTI1JTt3cml0aW5nLW1vZGU6bHItdGI7dGV4dC1hbmNob3I6c3RhcnQ7Zm9udC1mYW1pbHk6VGltZXMgTmV3IFJvbWFuIiB5PSIxNS40ODU4ODMiIHg9IjI3LjM4MTc2OSI+RDwvdGV4dD4KICA8L2c+Cjwvc3ZnPg==;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="50" width="376.88" height="222" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
